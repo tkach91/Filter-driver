@@ -1,0 +1,16 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\kbftest.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=c:\winddk\7600.16385.1
+OBJECT_ROOT=c:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=c:\kbfiltr\exe
+OBJ_PATH=c:\kbfiltr\exe
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0
